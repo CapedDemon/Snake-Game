@@ -1,6 +1,7 @@
 # Snake Game
 <a href="https://github.com/Shreejan-35/Classified"><img src="https://img.shields.io/badge/Language-python-green.svg" alt="Language"></a>
 <a href="https://github.com/Shreejan-35/Classified/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-GNU-blue.svg" alt="License"></a>
+<br>
 Snake Games are the msot favourite game of all time. It is very fun to play it and make the highest score. It is alsovery much addicive. Snake Games are available in application form as well as web form also. 
 <br>
 For developers and coders snake games are the most basic and easiest thing to make and play.
