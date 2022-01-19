@@ -15,7 +15,7 @@ You all know how to play a **snake game**. But then also, I am telling you the i
 - If you eat the **red** color thing, then your point increases.
 
 That's all.
-The web version you can find in - ![](https://bit.ly/3FATyY4)
+The web version you can find in - https://bit.ly/3FATyY4
 
 You can get the application, by cloning the git repository - 
 ```
