@@ -1,0 +1,45 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background: url("res/snake.jpg");
+    
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.canvas {
+    border: 8px solid white;
+    margin: 100px;
+    height: 70vh;
+    width: 70vh;
+    display: grid;
+    grid-template-columns: repeat(18, 1fr);
+    grid-template-rows: repeat(18, 1fr);
+}
+
+.snakeBody {
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.food {
+    background-color: red;
+    width: 15px;
+    height: 16px;
+    border-radius: 30px;
+}
+
+#score
+{
+    position: relative;
+    top: 0px;
+    margin-bottom: 150px;
+    font-size: 5vh;
+    color: yellow;
+}
