@@ -5,7 +5,9 @@ For developers and coders snake games are the most basic and easiest thing to ma
 <br>
 I used to play the snake games when I was too small. Today at 14 years of age I thought of making my own snake games. Before I have made much complex games like the BUG Outbreak in python. But it will be more fun to make two snake games with different language and platforms. Here I have made two snake games :-
 - Web -> Javascript, html, css
+![](https://github.com/Shreejan-35/Snake-Game/blob/main/res/web.JPG)
 - Application -> python
+![](https://github.com/Shreejan-35/Snake-Game/blob/main/res/application.JPG)
 I have kept them in same folder.
 
 # How to play?
