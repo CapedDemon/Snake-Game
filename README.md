@@ -24,7 +24,7 @@ The web version you can find in - https://bit.ly/3FATyY4
 
 You can get the application, by cloning the git repository - 
 ```
-git clone https://github.com/Shreejan-35/Snake-Game.git
+git clone https://github.com/CapedDemon/Snake-Game.git
 
 ```
 Then run the snake.py file. For this install python 3 on your device.
